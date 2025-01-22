@@ -24,7 +24,7 @@ Here are some of the technologies and tools I work with:
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Pradip DevOps](https://www.linkedin.com/in/pradipdevops4u/)
-- Twitter: [@pradipdevops](https://x.com/pradipdevops4u)
+- LinkedIn: [pradipdevops4u](https://www.linkedin.com/in/pradipdevops4u/)
+- Twitter: [@pradipdevops4u](https://x.com/pradipdevops4u)
 
 Thanks for stopping by! I look forward to connecting with you. Feel free to check out my projects and get in touch if you'd like to collaborate.
